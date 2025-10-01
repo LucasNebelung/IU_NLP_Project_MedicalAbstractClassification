@@ -1,0 +1,6 @@
+label_id,label_name,Train (raw),Test (raw),Train (excl_5),Test (excl_5)
+1,neoplasms,21.9048,21.9183,32.8316,32.849
+2,digestive system diseases,10.3463,10.3532,15.5074,15.5163
+3,nervous system diseases,13.3333,13.331,19.9844,19.9792
+4,cardiovascular diseases,21.1342,21.1219,31.6766,31.6554
+5,general pathological conditions,33.2814,33.2756,0.0,0.0

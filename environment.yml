@@ -1,0 +1,15 @@
+name: iu-nlp-topic-modeling
+channels:
+  - defaults
+dependencies:
+  - python=3.10.10
+  - pip
+  - pip:
+      - numpy
+      - scikit-learn
+      - torch
+      - transformers
+      - datasets
+      - evaluate
+      - accelerate
+

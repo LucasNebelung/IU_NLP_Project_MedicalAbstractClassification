@@ -1,0 +1,5 @@
+label,precision,recall,f1_score,support
+neoplasms,0.8458,0.8057,0.8252,633
+digestive system diseases,0.7261,0.7625,0.7439,299
+nervous system diseases,0.7293,0.7766,0.7522,385
+cardiovascular diseases,0.87,0.8557,0.8628,610

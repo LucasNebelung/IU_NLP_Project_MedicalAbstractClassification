@@ -1,0 +1,6 @@
+label_id,label_name,Train (raw),Test (raw),Train (excl_5),Test (excl_5)
+1,neoplasms,2530,633,2530,633
+2,digestive system diseases,1195,299,1195,299
+3,nervous system diseases,1540,385,1540,385
+4,cardiovascular diseases,2441,610,2441,610
+5,general pathological conditions,3844,961,0,0

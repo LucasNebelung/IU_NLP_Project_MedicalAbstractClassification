@@ -1,0 +1,58 @@
+FineTunedBioMedBERT/results/
+FineTunedBioMedBERT/results_head_only
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Lightning / Studio specific
+.lightning_studio/
+.vscode-server/
+.studio_as_admin_successful
+.cursor-server
+.windsurf-server
+
+# User config
+.bashrc
+.zshrc
+.zsh_history
+.conda/
+.condarc
+.cache/
+.local/
+.config/
+.hushlogin
+.ssh/
+.nvm/
+docker/
+
+.vscode-server/
+.wget-hsts
